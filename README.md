@@ -39,6 +39,13 @@ WinQ accelerates quantized training through two complementary techniques:
 - **8.8% Quality Improvement**: Improves state-of-the-art sub-4-bit quantization performance by up to 8.8% relatively
 - **Broad Applicability**: Consistently effective across 16 different settings of language models, quantization methods, and bit-widths
 
+<div align=center>
+<img width=100% src="./figs/results1.png"/>
+</div>
+
+<div align=center>
+<img width=100% src="./figs/results2.png"/>
+</div>
 
 ## Citation
 
